@@ -1,7 +1,9 @@
 <div align="center">
   <h3> Hey 👋, Como Vai ?! Prazer!! 💻🖥</h3>
-  <a href="https://github.com/kelwinfrederik" style="color:#ffffff00;">
-  
+  <a href="https://www.linkedin.com/in/kelwin-frederik-alves/" style="color:#ffffff00;">
+  FullStack Developer
+  </a><br /><br />
+    
   <a href="https://www.linkedin.com/in/kelwin-frederik-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:kelwin.frederik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kelwin_frederik/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
