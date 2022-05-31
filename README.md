@@ -23,6 +23,7 @@
   
   <h4> -=- APRENDENDO | LEARNING -=- </h4>
   
-  <img align="center" alt="Vue Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <!--img align="center" alt="Vue Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"-->
   <!--img align="center" alt="Vue Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"-->
 </div>
