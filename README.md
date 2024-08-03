@@ -3,11 +3,15 @@
   <h3> Hey 👋 I'm Kelwin Alves</h3>
 
   <h3> Como Vai ?! 💻 | How do you do?! 🖥</h3>
-  
+
   <h4> FullStack Developer </h4>
 
   <a href="https://www.linkedin.com/in/kelwin-frederik-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:kelwin.frederik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <p> Sou Técnico em Informática e bacharel em Engenharia de Software. Tenho experiência em desenvolvimento Full Stack, e atualmente utilizo Angular, .Net Framwork e Core e SQL Server. Tenho sólidos conhecimentos em bancos de dados SQL e metodologias ágeis.
+  </p>
+
   <hr>
 </div>
 <div align='center'>
